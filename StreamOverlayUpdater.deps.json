@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "StreamOverlayUpdater/0.2.1": {
+      "StreamOverlayUpdater/0.2.2": {
         "runtime": {
           "StreamOverlayUpdater.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "StreamOverlayUpdater/0.2.1": {
+    "StreamOverlayUpdater/0.2.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
