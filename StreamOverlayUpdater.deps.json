@@ -6,18 +6,36 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "StreamOverlayUpdater/0.2.2": {
+      "StreamOverlayUpdater/0.2.3": {
+        "dependencies": {
+          "K4os.Hash.xxHash": "1.0.7"
+        },
         "runtime": {
           "StreamOverlayUpdater.dll": {}
+        }
+      },
+      "K4os.Hash.xxHash/1.0.7": {
+        "runtime": {
+          "lib/net5.0/K4os.Hash.xxHash.dll": {
+            "assemblyVersion": "1.0.7.0",
+            "fileVersion": "1.0.7.0"
+          }
         }
       }
     }
   },
   "libraries": {
-    "StreamOverlayUpdater/0.2.2": {
+    "StreamOverlayUpdater/0.2.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "K4os.Hash.xxHash/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R9fMMGE3jCjEf1STDj5n2CemFeHYHEKWwLt9aji1OCbBFw/AgEmrwEXqCqptVnv90yM2lWlIxrViW8EIsQfvHg==",
+      "path": "k4os.hash.xxhash/1.0.7",
+      "hashPath": "k4os.hash.xxhash.1.0.7.nupkg.sha512"
     }
   }
 }
