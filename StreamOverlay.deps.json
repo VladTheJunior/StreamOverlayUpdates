@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "StreamOverlay/0.2.3": {
+      "StreamOverlay/0.2.4": {
         "dependencies": {
           "LibVLCSharp.WPF": "3.6.5",
           "PixiEditor.ColorPicker": "3.2.0",
@@ -58,7 +58,7 @@
     }
   },
   "libraries": {
-    "StreamOverlay/0.2.3": {
+    "StreamOverlay/0.2.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
