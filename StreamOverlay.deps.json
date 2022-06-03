@@ -6,32 +6,32 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "StreamOverlay/0.2.6": {
+      "StreamOverlay/0.2.7": {
         "dependencies": {
-          "LibVLCSharp.WPF": "3.6.5",
-          "PixiEditor.ColorPicker": "3.2.0",
-          "VideoLAN.LibVLC.Windows": "3.0.16"
+          "LibVLCSharp.WPF": "3.6.6",
+          "PixiEditor.ColorPicker": "3.3.1",
+          "VideoLAN.LibVLC.Windows": "3.0.17.4"
         },
         "runtime": {
           "StreamOverlay.dll": {}
         }
       },
-      "LibVLCSharp/3.6.5": {
+      "LibVLCSharp/3.6.6": {
         "runtime": {
           "lib/net6.0-windows7.0/LibVLCSharp.dll": {
-            "assemblyVersion": "3.6.5.0",
-            "fileVersion": "3.6.5.0"
+            "assemblyVersion": "3.6.6.0",
+            "fileVersion": "3.6.6.0"
           }
         }
       },
-      "LibVLCSharp.WPF/3.6.5": {
+      "LibVLCSharp.WPF/3.6.6": {
         "dependencies": {
-          "LibVLCSharp": "3.6.5"
+          "LibVLCSharp": "3.6.6"
         },
         "runtime": {
           "lib/net6.0-windows7.0/LibVLCSharp.WPF.dll": {
-            "assemblyVersion": "3.6.5.0",
-            "fileVersion": "3.6.5.0"
+            "assemblyVersion": "3.6.6.0",
+            "fileVersion": "3.6.6.0"
           }
         }
       },
@@ -43,39 +43,39 @@
           }
         }
       },
-      "PixiEditor.ColorPicker/3.2.0": {
+      "PixiEditor.ColorPicker/3.3.1": {
         "dependencies": {
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.31"
         },
         "runtime": {
           "lib/net6.0-windows7.0/ColorPicker.dll": {
-            "assemblyVersion": "3.2.1.0",
-            "fileVersion": "3.2.1.0"
+            "assemblyVersion": "3.3.1.0",
+            "fileVersion": "3.3.1.0"
           }
         }
       },
-      "VideoLAN.LibVLC.Windows/3.0.16": {}
+      "VideoLAN.LibVLC.Windows/3.0.17.4": {}
     }
   },
   "libraries": {
-    "StreamOverlay/0.2.6": {
+    "StreamOverlay/0.2.7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "LibVLCSharp/3.6.5": {
+    "LibVLCSharp/3.6.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-JmMiPpRt7h1h95ETQoNKZ9Jrz1L5yyeUx87L0c89xF8Dy755ycV9CqSxmyGVFOuk+YS8Zlf57NSgDABtV/ANQQ==",
-      "path": "libvlcsharp/3.6.5",
-      "hashPath": "libvlcsharp.3.6.5.nupkg.sha512"
+      "sha512": "sha512-FVFPaVGcckbva3fEzc9+VNP3zD4KZ4eoiCEkfBe5+/BgJLDbnV9Nk9TlwqqrUxlelGL2q4gXGhXAm+gU0yDFYQ==",
+      "path": "libvlcsharp/3.6.6",
+      "hashPath": "libvlcsharp.3.6.6.nupkg.sha512"
     },
-    "LibVLCSharp.WPF/3.6.5": {
+    "LibVLCSharp.WPF/3.6.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-TZKg/SAf3VZ1wbnmbkhVyyUI+L/r/ug0TQOTX7VvGJtuokNhYE5+vLLyJR8qR2p6Usq6lZd3aRI5zFmlDv2wyw==",
-      "path": "libvlcsharp.wpf/3.6.5",
-      "hashPath": "libvlcsharp.wpf.3.6.5.nupkg.sha512"
+      "sha512": "sha512-VxiyXVxUFu2N7LbjgCb3Nd/NykMoCOXhjq3zIOJFw0dntlKN5/PZiZX73jPHFyEehx/rXNy66hMYQcdmEkL4dA==",
+      "path": "libvlcsharp.wpf/3.6.6",
+      "hashPath": "libvlcsharp.wpf.3.6.6.nupkg.sha512"
     },
     "Microsoft.Xaml.Behaviors.Wpf/1.1.31": {
       "type": "package",
@@ -84,19 +84,19 @@
       "path": "microsoft.xaml.behaviors.wpf/1.1.31",
       "hashPath": "microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512"
     },
-    "PixiEditor.ColorPicker/3.2.0": {
+    "PixiEditor.ColorPicker/3.3.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-B8ottNBoozI5EDLY8m+jHCzdN48RuWcevKwKn5A0p5SA7ov6JqHHx1fFNxa24riyOGcbgLv5MmpyrAEOTED05g==",
-      "path": "pixieditor.colorpicker/3.2.0",
-      "hashPath": "pixieditor.colorpicker.3.2.0.nupkg.sha512"
+      "sha512": "sha512-U8h2DcdfjmBY6uVlqRkK7NXQvFqfZVCP0UKW6iEqeP788ivT8O4TZ5dNKpMvEB1JUSJR4aa1RomTvOJ2CufkoQ==",
+      "path": "pixieditor.colorpicker/3.3.1",
+      "hashPath": "pixieditor.colorpicker.3.3.1.nupkg.sha512"
     },
-    "VideoLAN.LibVLC.Windows/3.0.16": {
+    "VideoLAN.LibVLC.Windows/3.0.17.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2os7EGuroQnZxYzhiUWRcg3CcCII9xwMT1sOYsh32o9YSKwYirk+vf3MkcmQX4nHhUSRu6Gt3GG1pVSry6N5PA==",
-      "path": "videolan.libvlc.windows/3.0.16",
-      "hashPath": "videolan.libvlc.windows.3.0.16.nupkg.sha512"
+      "sha512": "sha512-oCvlMgF69X5J7ZcIM+DUcOiRDFTrOcZwhnaMkjGAB+PwtKqd0IaqcKcb6+oo11GfJyWjyPO/FXrXzE+Y/htmeg==",
+      "path": "videolan.libvlc.windows/3.0.17.4",
+      "hashPath": "videolan.libvlc.windows.3.0.17.4.nupkg.sha512"
     }
   }
 }
