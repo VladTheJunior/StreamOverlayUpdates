@@ -1,0 +1,91 @@
+{
+  "AppVersion": 30,
+  "AppLanguage": 0,
+  "SelectedOverlay": "Kings of The Old World",
+  "ElementsStyle": 1,
+  "HUDScale": 100,
+  "Chromakey": false,
+  "AutoplaySound": false,
+  "LoopBackgrounds": false,
+  "MapPool": [],
+  "Countdown": {
+    "Position": {
+      "X": 1469,
+      "Y": 20,
+      "Type": 0
+    },
+    "Zoom": 0,
+    "Source": "00:00:00",
+    "IsVisible": true
+  },
+  "Schedule": {
+    "Position": {
+      "X": 1469,
+      "Y": 559,
+      "Type": 2
+    },
+    "Zoom": 0,
+    "Source": "",
+    "IsVisible": false
+  },
+  "EventLogo": {
+    "Position": {
+      "X": 20,
+      "Y": 20,
+      "Type": 3
+    },
+    "Zoom": 0,
+    "Source": "\u003CNOT SET\u003E",
+    "IsVisible": false
+  },
+  "BrandLogo": {
+    "Position": {
+      "X": 20,
+      "Y": 20,
+      "Type": 3
+    },
+    "Zoom": 0,
+    "Source": "\u003CNOT SET\u003E",
+    "IsVisible": false
+  },
+  "TwitchPanel": {
+    "Position": {
+      "X": 20,
+      "Y": 20,
+      "Type": 3
+    },
+    "Zoom": 0,
+    "Source": "ESOCTV",
+    "IsVisible": true
+  },
+  "ScoreInputPanel": {
+    "Position": {
+      "X": 0,
+      "Y": 0,
+      "Type": 0
+    },
+    "Zoom": 0,
+    "Source": null,
+    "IsVisible": true
+  },
+  "PlayersPanel": {
+    "Position": {
+      "X": 0,
+      "Y": 0,
+      "Type": 0
+    },
+    "Zoom": 0,
+    "Source": 0,
+    "IsVisible": false
+  },
+  "Map": {
+    "Position": {
+      "X": 20,
+      "Y": 711,
+      "Type": 1
+    },
+    "Zoom": 0,
+    "Source": null,
+    "IsVisible": false
+  }
+}
