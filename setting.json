@@ -58,7 +58,7 @@
       "Type": 3
     },
     "Zoom": 0,
-    "Source": "ESOCTV",
+    "Source": "thebosslennon",
     "IsVisible": true
   },
   "ScoreInputPanel": {
@@ -69,7 +69,7 @@
     },
     "Zoom": 0,
     "Source": null,
-    "IsVisible": true
+    "IsVisible": false
   },
   "PlayersPanel": {
     "Position": {
@@ -79,12 +79,12 @@
     },
     "Zoom": 0,
     "Source": 0,
-    "IsVisible": false
+    "IsVisible": true
   },
   "Map": {
     "Position": {
-      "X": 129,
-      "Y": 734.0000000000002,
+      "X": 25,
+      "Y": 8.000000000000128,
       "Type": 4
     },
     "Zoom": 0,
